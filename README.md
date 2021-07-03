@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @m-regina
+- 👋 Hi, I’m Regina
 - 👀 I’m interested in ... Linux
 - 🌱 I’m currently learning ... AWS
-- 💞️ I’m looking to ... Start my own project!
+- 💞️ I’m looking to ... Start my 1st project!
 - 📫 How to reach me ... LinkedIn
 
 <!---
